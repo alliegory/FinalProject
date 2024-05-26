@@ -1,0 +1,101 @@
+Vendor_ID,Vendor_Name,Street,City,State,Zip_Code,Phone,Email,Website
+1,Jaxbean,76 Di Loreto Plaza,Greensboro,NC,27409,336-654-7114,apadberry0@bloomberg.com,mashable.com
+2,Bluejam,7787 Fieldstone Parkway,Austin,TX,78759,512-610-3550,ksantori1@hugedomains.com,webeden.co.uk
+3,Devshare,8662 Susan Point,Milwaukee,WI,53285,414-208-2641,lduncklee2@vinaora.com,bbc.co.uk
+4,Feednation,0395 Lerdahl Court,Boca Raton,FL,33432,561-238-6955,mfarndale3@fastcompany.com,nba.com
+5,Brainverse,6 Shoshone Drive,Greensboro,NC,27425,336-397-2843,oduddell4@addtoany.com,wordpress.com
+6,Tagtune,6 Hauk Plaza,Lima,OH,45807,419-537-8032,jmattosoff5@comcast.net,yellowbook.com
+7,Rhybox,132 Dunning Lane,Denver,CO,80204,303-707-4925,glethlay6@nasa.gov,shutterfly.com
+8,Youfeed,1216 Center Drive,Birmingham,AL,35220,205-659-1602,mzincke7@google.com.au,uol.com.br
+9,Blogpad,3758 Spohn Way,Los Angeles,CA,90081,213-213-1169,kdeantoni8@earthlink.net,1688.com
+10,Katz,7 Oxford Center,Fresno,CA,93794,559-941-8183,tcolter9@blogger.com,cbc.ca
+11,Topicblab,6088 Goodland Lane,Everett,WA,98206,425-172-1440,ddoucettea@rakuten.co.jp,github.com
+12,Mycat,704 Caliangt Crossing,Rochester,NY,14639,585-861-3371,mweatherhillb@blogger.com,wordpress.com
+13,Skyndu,597 Nancy Plaza,Springfield,MA,01129,413-713-7190,agergusc@alibaba.com,devhub.com
+14,Bubbletube,19 Di Loreto Pass,Santa Fe,NM,87592,505-425-8036,vabrahamsond@ibm.com,tamu.edu
+15,Innojam,276 Buell Crossing,Provo,UT,84605,801-425-8203,dkantere@house.gov,diigo.com
+16,Abatz,8339 Village Green Circle,Lansing,MI,48901,517-143-2649,tskirvinf@adobe.com,amazon.de
+17,Youtags,357 Randy Alley,Milwaukee,WI,53220,414-627-8746,dledekerg@uiuc.edu,omniture.com
+18,Babbleset,17727 Blue Bill Park Trail,Johnstown,PA,15906,814-978-9149,mbambletth@forbes.com,microsoft.com
+19,Tagtune,3095 Autumn Leaf Road,West Palm Beach,FL,33416,561-556-2589,driedeli@salon.com,hp.com
+20,Edgeblab,3158 Mccormick Way,Philadelphia,PA,19178,215-162-5200,adelaundej@statcounter.com,arstechnica.com
+21,Livetube,7447 Monument Drive,New York City,NY,10004,917-426-5476,fgreenallk@squarespace.com,nih.gov
+22,Zoovu,35 Village Green Point,Metairie,LA,70005,504-416-1314,rdockrelll@auda.org.au,craigslist.org
+23,Tagfeed,81729 Erie Plaza,Detroit,MI,48242,248-213-0120,trileym@example.com,mayoclinic.com
+24,Youtags,025 Bowman Pass,Concord,CA,94522,925-694-9916,cdockrayn@hhs.gov,tiny.cc
+25,Photojam,206 Garrison Road,Lubbock,TX,79410,806-663-2224,bdemongeo@yale.edu,mashable.com
+26,Realbridge,763 Forest Dale Parkway,Jackson,MS,39204,601-145-1197,cglazyerp@ihg.com,shinystat.com
+27,LiveZ,74 Village Trail,Tucson,AZ,85705,520-767-6298,krubinszteinq@ftc.gov,lycos.com
+28,Feedfire,736 Mosinee Hill,Seattle,WA,98185,206-342-4578,astallibrassr@moonfruit.com,sina.com.cn
+29,Agimba,8391 Victoria Plaza,Reston,VA,20195,703-663-0978,bseawrights@europa.eu,wikimedia.org
+30,Chatterbridge,637 Longview Park,Washington,DC,20425,202-925-2761,kcominellot@linkedin.com,infoseek.co.jp
+31,Jetwire,2 1st Drive,Springfield,IL,62756,217-273-6107,araddinu@mapquest.com,sina.com.cn
+32,Dazzlesphere,61 Oak Parkway,Temple,TX,76505,254-544-3104,krowetv@imgur.com,cam.ac.uk
+33,Thoughtworks,1958 Mallory Pass,Cleveland,OH,44185,216-715-0662,hshemmansw@elpais.com,opensource.org
+34,Aivee,94 Bay Avenue,Saint Louis,MO,63104,314-882-3641,bphelpsx@chronoengine.com,kickstarter.com
+35,Flashset,99949 Dunning Park,Dallas,TX,75216,469-998-4482,cdragony@ftc.gov,state.tx.us
+36,Jabbersphere,2 Green Ridge Plaza,Orlando,FL,32813,321-336-9700,tsnarz@slate.com,dion.ne.jp
+37,Shufflebeat,5 Butternut Lane,Baltimore,MD,21203,410-674-9576,mrawstorn10@washington.edu,deliciousdays.com
+38,Zava,87 Fallview Center,Oklahoma City,OK,73147,405-749-5732,ewigley11@cisco.com,google.co.jp
+39,Camido,240 Algoma Parkway,Knoxville,TN,37914,865-972-5984,lsporrij12@eventbrite.com,illinois.edu
+40,Jaxspan,08 4th Point,Fort Wayne,IN,46862,260-374-9284,moconor13@chron.com,illinois.edu
+41,Innotype,87 Bluestem Street,San Jose,CA,95160,408-906-4977,swilcinskis14@cbc.ca,hud.gov
+42,Eadel,742 Jenna Pass,Washington,DC,20551,202-635-7063,hsapena15@wp.com,wikia.com
+43,Thoughtstorm,32827 Continental Trail,Brooklyn,NY,11254,212-216-6995,ccarlow16@google.ru,oracle.com
+44,Tazzy,9926 Morrow Hill,Burbank,CA,91505,818-304-6234,dantonowicz17@netscape.com,rambler.ru
+45,Flashspan,859 Manitowish Road,Gainesville,FL,32605,352-151-4903,mskellern18@godaddy.com,slate.com
+46,Devify,211 Northfield Trail,Huntington,WV,25775,304-131-0300,dtreker19@businessinsider.com,admin.ch
+47,Jabbertype,7573 Raven Park,Port Charlotte,FL,33954,941-993-1831,astodit1a@opensource.org,businessinsider.com
+48,Izio,23252 Johnson Park,Denton,TX,76205,940-115-7911,aletterese1b@list-manage.com,scribd.com
+49,Jazzy,06791 Starling Hill,Austin,TX,78715,512-163-5809,jgordongiles1c@sitemeter.com,house.gov
+50,Divanoodle,2210 Corry Court,Salt Lake City,UT,84135,801-824-9415,lebbens1d@google.co.uk,upenn.edu
+51,Thoughtstorm,5 Monterey Parkway,Denver,CO,80209,303-763-7292,afullun1e@slideshare.net,ucsd.edu
+52,Demizz,39 Magdeline Terrace,Indianapolis,IN,46226,317-506-0789,shallstone1f@smh.com.au,kickstarter.com
+53,Skimia,494 Fieldstone Terrace,San Antonio,TX,78291,210-225-3179,dchatelet1g@macromedia.com,google.it
+54,Babbleset,75413 Rieder Trail,Grand Junction,CO,81505,970-612-9671,amurkitt1h@marriott.com,uiuc.edu
+55,Miboo,572 Lillian Junction,Bonita Springs,FL,34135,941-724-9321,jpeterkin1i@addthis.com,census.gov
+56,Blogspan,621 Elgar Drive,Colorado Springs,CO,80995,719-610-7344,cdurnell1j@youtube.com,geocities.jp
+57,Realcube,714 Duke Park,San Diego,CA,92191,619-267-1635,bbrumble1k@facebook.com,cpanel.net
+58,Skyble,49 Graceland Junction,Cincinnati,OH,45213,513-185-8029,cverryan1l@google.com.au,vinaora.com
+59,Kwilith,693 Clarendon Parkway,Milwaukee,WI,53263,414-963-5245,bamery1m@zdnet.com,cmu.edu
+60,Vidoo,85 Ohio Avenue,San Antonio,TX,78230,830-819-0483,ehardman1n@cdc.gov,cnbc.com
+61,Centimia,4753 Clemons Street,Vero Beach,FL,32969,772-547-4178,dalvy1o@blogspot.com,mysql.com
+62,Meejo,73 Bashford Court,Cleveland,OH,44125,216-539-7493,mwark1p@naver.com,umich.edu
+63,Dablist,35254 8th Road,Grand Rapids,MI,49510,616-913-7291,lsimonetto1q@yelp.com,liveinternet.ru
+64,Voolith,128 Esch Pass,Washington,DC,20205,202-315-7313,vdearl1r@prlog.org,economist.com
+65,Kaymbo,34698 Shasta Avenue,Texarkana,TX,75507,903-845-4333,mklimsch1s@nasa.gov,umich.edu
+66,Realcube,37031 Lukken Plaza,San Jose,CA,95194,408-104-6709,skruse1t@washingtonpost.com,flickr.com
+67,Dazzlesphere,476 Amoth Avenue,Cincinnati,OH,45218,513-957-8916,maucoate1u@pen.io,paginegialle.it
+68,Dabjam,0839 Loeprich Pass,Richmond,VA,23203,804-180-8040,rfarmer1v@clickbank.net,state.tx.us
+69,Trudeo,4 Kipling Circle,San Jose,CA,95128,408-970-9093,dmorrowe1w@vistaprint.com,phoca.cz
+70,Feednation,9040 Elka Point,Jamaica,NY,11436,917-736-2462,rradclyffe1x@nih.gov,scribd.com
+71,Topicshots,54 Rockefeller Way,Trenton,NJ,08695,609-415-6142,cgorwood1y@cdc.gov,yellowpages.com
+72,Devbug,15 Quincy Road,Lubbock,TX,79491,806-515-4810,shorrod1z@deliciousdays.com,histats.com
+73,Feedspan,8001 Truax Plaza,Washington,DC,20425,202-860-9160,kgarthshore20@nydailynews.com,baidu.com
+74,Ozu,9 Donald Parkway,Roanoke,VA,24009,540-262-6035,bshrive21@symantec.com,alexa.com
+75,Flipopia,8787 Harbort Way,Baltimore,MD,21211,443-352-9553,wchinnery22@sphinn.com,google.es
+76,Plajo,76240 Arrowood Place,Young America,MN,55564,952-952-2925,mhandsheart23@blogspot.com,samsung.com
+77,Topicshots,6475 Riverside Trail,Hayward,CA,94544,925-575-3995,nshemmin24@ustream.tv,i2i.jp
+78,Browsedrive,255 Darwin Junction,Sacramento,CA,94297,916-599-7404,atopping25@de.vu,stanford.edu
+79,Browsecat,87721 Golden Leaf Pass,Asheville,NC,28805,828-763-8122,cdubble26@flavors.me,biglobe.ne.jp
+80,Brightdog,69257 Clemons Terrace,San Francisco,CA,94110,562-582-8298,psatterlee27@ask.com,dot.gov
+81,Wordpedia,7 Haas Avenue,Omaha,NE,68105,402-303-6865,wliddall28@jigsy.com,disqus.com
+82,Tazz,56772 Sundown Parkway,Lexington,KY,40505,859-138-2676,egarretts29@washingtonpost.com,histats.com
+83,Gabspot,934 Porter Alley,Dayton,OH,45440,937-336-1654,rreadman2a@delicious.com,altervista.org
+84,Brainsphere,83334 Schlimgen Avenue,Albany,NY,12247,518-312-2788,sspurgin2b@nasa.gov,unc.edu
+85,Aibox,551 Hudson Road,Austin,TX,78764,512-150-3373,fweddeburnscrimgeour2c@java.com,cpanel.net
+86,Wikibox,569 East Road,Cincinnati,OH,45243,513-278-0271,hlongstreeth2d@epa.gov,cbsnews.com
+87,Youtags,2 New Castle Center,Cumming,GA,30130,706-978-0111,jmills2e@csmonitor.com,moonfruit.com
+88,Mydeo,16626 3rd Pass,Flushing,NY,11388,347-867-7169,rbengtson2f@intel.com,ning.com
+89,Zoomzone,30 Nobel Junction,New York City,NY,10280,212-478-4349,hboon2g@unblog.fr,studiopress.com
+90,Voomm,2 Tony Crossing,Saint Louis,MO,63121,314-346-6330,wsimonassi2h@buzzfeed.com,cargocollective.com
+91,Twitterwire,05 Reindahl Junction,Conroe,TX,77305,936-588-2709,acawse2i@issuu.com,wsj.com
+92,Photojam,369 Hauk Junction,Lexington,KY,40505,859-616-0225,nclarey2j@360.cn,dailymail.co.uk
+93,Dabvine,582 Pierstorff Parkway,Ann Arbor,MI,48107,734-431-2624,dbergin2k@arstechnica.com,booking.com
+94,Fliptune,9422 North Place,Odessa,TX,79769,432-944-8663,ebampkin2l@who.int,ucla.edu
+95,Trilia,93403 Delladonna Park,Pensacola,FL,32595,850-982-8144,zgeraudy2m@nasa.gov,linkedin.com
+96,Blogspan,9532 Del Sol Terrace,Columbia,SC,29203,803-836-7488,myosevitz2n@ucoz.ru,senate.gov
+97,Avavee,0928 Gulseth Terrace,Madison,WI,53710,608-288-7181,cgretham2o@globo.com,canalblog.com
+98,Feedbug,37183 Lakewood Gardens Court,El Paso,TX,79994,915-195-3164,cdrust2p@angelfire.com,domainmarket.com
+99,Buzzbean,876 Dayton Pass,Minneapolis,MN,55412,651-986-5153,tthirwell2q@craigslist.org,google.ca
+100,Katz,15879 Dahle Plaza,Washington,DC,20099,202-933-4126,acutbush2r@mapquest.com,ebay.co.uk

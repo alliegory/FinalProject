@@ -1,0 +1,1001 @@
+Product_ID,Vendor_ID,Product_Name,UPC,Wholesale_Price,Retail_Price,Order_Qty,Discontinued
+1,16,Bab'Aziz -The Prince Who Contemplated His Soul,282434628-0,135.27,,15,false
+2,11,Maximum Overdrive,844542410-6,126.36,,16,true
+3,51,The Overnight,325882231-X,102.96,,13,true
+4,68,Westward Ho,953030153-7,133.38,,3,true
+5,64,Camille Rewinds,889199603-3,119.05,,6,false
+6,34,The Mysterious Island,851549997-5,47.03,,14,false
+7,20,Story of a Prostitute (Shunpu den),396123099-4,99.5,,2,false
+8,89,Alabama's Ghost,225750676-6,22.97,,7,false
+9,3,The Lost Prince,834805032-9,10.62,,19,true
+10,12,"Cube of Sugar, A (Ye Habe Ghand)",153007320-0,76.84,,13,true
+11,65,"Substitute, The (Vikaren)",309995987-1,147.24,,20,false
+12,31,Buster,804103817-4,13.56,,15,false
+13,19,Robocroc,620139427-3,92.3,,3,true
+14,8,Just Before Dawn,398825049-X,129.85,,16,false
+15,35,"40-Year-Old Virgin, The",208154164-5,87.58,,5,true
+16,73,Born to Raise Hell,000230316-7,85.88,,18,true
+17,21,Guilty as Sin,329360709-8,77.22,,1,true
+18,27,"Strawberry Blonde, The",986228373-4,68.82,,3,true
+19,9,Killer Bean 2: The Party,199786431-2,8.31,,12,true
+20,89,Husk,537066436-6,84.38,,1,false
+21,10,Transamerica,582864223-5,32.69,,1,true
+22,17,American Scary,326271773-8,115.99,,19,true
+23,31,Hud,661749906-9,119.2,,13,true
+24,38,Monsters University,021519280-X,124.93,,20,false
+25,46,Bending the Rules,942835542-9,25.21,,11,true
+26,21,Can I Do It 'Till I Need Glasses?,547288445-4,11.63,,6,true
+27,49,Flying Tigers,076242549-0,14.06,,17,false
+28,15,Bomb the System,366395871-X,99.73,,3,false
+29,5,Did You Hear About the Morgans?,251431985-4,10.58,,13,false
+30,74,Dreamboat,379693813-2,55.87,,3,false
+31,20,Disclosure,154693849-4,31.1,,16,false
+32,80,Thunder Bay,888210030-8,58.56,,20,false
+33,42,"Wrong Guy, The",417778420-6,138.13,,4,false
+34,68,Beautiful Girls,754256885-X,133.18,,18,true
+35,48,"Institute, The",476924447-9,40.51,,13,false
+36,24,"Kennedys, The",462050834-9,119.65,,13,false
+37,32,Flawless,833626309-8,22.32,,18,false
+38,18,Interstate 60,188377138-2,57.19,,15,true
+39,18,A Most Violent Year,929893458-0,71.26,,16,true
+40,90,Heckler,852077709-0,101.1,,17,false
+41,44,"No Retreat, No Surrender 2: Raging Thunder",328974159-1,40.47,,6,false
+42,2,When Jews Were Funny,044975289-5,48.95,,18,true
+43,2,"Deep Blue Sea, The",324864824-4,113.47,,7,true
+44,50,Autumn in New York,755562354-4,76.88,,1,false
+45,56,Santos,414339760-9,62.02,,11,true
+46,74,StarStruck,208489529-4,56.97,,15,true
+47,66,Visit to a Small Planet,798017627-8,104.94,,2,false
+48,57,Paris,441881997-5,107.61,,14,true
+49,42,La Legge Violenta Della Squadra Anticrimine,072388557-5,58.96,,5,true
+50,85,"Deer Hunter, The",627119483-4,69.66,,3,true
+51,36,The Pokrovsky Gates,955135021-9,38.69,,7,true
+52,51,Seven Swords (Chat gim),786168753-8,10.19,,3,false
+53,65,Flakes,885654704-X,82.88,,16,false
+54,98,Benji the Hunted,941990527-6,110.69,,18,true
+55,95,"Stand, The",406285351-5,149.6,,5,true
+56,46,Rango,048741141-2,89.15,,7,false
+57,63,Beyond Re-Animator,442707114-7,94.32,,3,true
+58,12,Coriolanus,943132557-8,124.31,,11,true
+59,50,eXistenZ,451521501-9,63.81,,5,false
+60,38,Fausto,183399023-4,126.57,,17,true
+61,100,Charlie Wilson's War,881568439-5,43.62,,14,false
+62,92,Three Kings,115137867-4,104.61,,18,false
+63,44,Tortilla Soup,366946199-X,124.8,,18,true
+64,66,"Last Bolshevik, The (Tombeau d'Alexandre, Le)",913679942-4,13.44,,3,false
+65,52,Headless Body in Topless Bar,828527908-1,89.99,,15,false
+66,35,Invaders from Space,438753962-3,133.37,,1,true
+67,55,This Could Be The Night,612437607-5,104.2,,11,false
+68,33,"Marva Collins Story, The",709454700-5,70.23,,20,false
+69,87,Takedown: The DNA of GSP,363697424-6,11.05,,4,true
+70,46,"Public Eye, The (Follow Me!)",177486389-8,66.8,,1,true
+71,48,Land of Happines (Onnen maa),533725113-9,38.86,,7,true
+72,82,Fear and Loathing in Las Vegas,762609156-6,138.7,,11,false
+73,15,Act Da Fool,171991968-2,95.88,,13,true
+74,86,Hollywood Shuffle,923289762-8,82.62,,5,true
+75,44,"Talking Picture, A (Um Filme Falado)",439942636-5,32.51,,9,false
+76,35,Blow-Out (La grande bouffe),540720791-5,82.88,,4,true
+77,85,Fancy Pants,761977721-0,88.35,,9,true
+78,95,"SpongeBob SquarePants Movie, The",879215222-8,50.2,,16,false
+79,51,"Great White Hope, The",401358713-0,34.42,,7,false
+80,80,Admiral Yamamoto,743890371-0,112.15,,6,true
+81,1,The Sign of Four: Sherlock Holmes' Greatest Case,160636001-9,23.66,,3,false
+82,45,2010: Moby Dick,755665187-8,69.95,,12,false
+83,42,"Warlords, The (Tau ming chong)",804155519-5,32.71,,2,false
+84,28,Darby's Rangers,225414722-6,78.51,,16,false
+85,75,Shutter Island,659097956-1,146.11,,20,false
+86,72,"Kid, The",168677141-X,32.7,,2,true
+87,17,Red Line 7000,024748330-3,75.12,,15,false
+88,76,Savior,500677818-0,131.56,,12,true
+89,51,DeadHeads,938873668-0,79.57,,17,false
+90,18,Bonnie and Clyde,081730439-8,67.72,,20,true
+91,9,East-West (Est-ouest),939589029-0,58.92,,10,true
+92,10,"Dancer Upstairs, The",637769915-8,127.78,,16,true
+93,13,Art School Confidential,897240244-3,126.46,,2,false
+94,91,Schultze Gets the Blues,744056245-3,39.11,,5,true
+95,40,First Strike,819514263-X,93.84,,12,false
+96,82,Redwood Highway,938184837-8,15.42,,16,false
+97,55,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution)",626956801-3,137.96,,17,false
+98,18,"Big Year, The",021945430-2,88.12,,12,true
+99,69,Frailty,452315413-9,15.43,,20,true
+100,77,Vacuum-Cleaner Salesmen (Pölynimurikauppiaat),685194824-9,148.48,,6,false
+101,46,"Blue Light, The (Blaue Licht, Das)",527936997-7,62.5,,6,true
+102,73,"Stars Look Down, The",222022704-9,118.3,,20,true
+103,10,I Am the Law,461684765-7,9.32,,13,true
+104,77,Naked,624678139-X,45.37,,16,false
+105,65,Paradise Lost 3: Purgatory,834431070-9,13.28,,8,true
+106,73,Pearls and Pigs (Helmiä ja sikoja),369693358-9,21.07,,1,false
+107,47,"Forever, Darling",291937099-5,82.49,,6,true
+108,61,Hell's Highway: The True Story of Highway Safety Films,688372482-6,23.79,,13,true
+109,83,Possible Loves (Amores Possíveis),141478392-2,116.99,,15,true
+110,99,"Actor's Revenge, An (Yukinojô henge)",687483330-8,83.74,,14,true
+111,65,There's Something Wrong with Aunt Diane,948647555-5,112.97,,3,true
+112,72,"Greatest, The",155590446-7,83.96,,18,true
+113,29,Eyes Wide Shut,097664567-X,124.14,,18,false
+114,76,Smash-Up: The Story of a Woman,894829148-3,35.57,,17,false
+115,78,Cat Ballou,936763017-4,114.74,,12,true
+116,45,Wake of the Red Witch,752511995-3,136.74,,13,false
+117,8,"Beauty and the Beast (Belle et la bête, La)",905804544-7,37.54,,14,false
+118,35,Dying of the Light,372866320-4,107.53,,4,false
+119,76,"Cutting Edge: The Magic of Movie Editing, The",291172966-8,131.77,,13,false
+120,88,Mrs. Winterbourne,744813487-6,124.54,,3,true
+121,2,What Have They Done to Your Daughters?,658550237-X,101.0,,7,false
+122,16,The Forgotten Woman,785972037-X,80.54,,19,true
+123,70,Anna and the King of Siam,429093907-4,86.84,,20,false
+124,18,The Conrad Boys,858234400-7,15.46,,1,true
+125,31,Roman Holiday,013579869-8,139.74,,18,true
+126,70,HE Who Gets Slapped,654393089-6,68.99,,6,false
+127,93,Some Kind of Wonderful,553907274-X,29.21,,1,true
+128,13,Lovely Molly,762835167-0,103.52,,12,false
+129,19,Letters from Iwo Jima,203880444-3,96.32,,6,false
+130,92,Strange Planet,573748287-1,70.89,,14,true
+131,74,Permanent Record,913836157-4,132.07,,3,true
+132,13,Fullmetal Alchemist: The Sacred Star of Milos,017270045-0,119.69,,18,false
+133,49,High Sierra,983397490-2,9.48,,12,true
+134,85,Talk Radio,864348297-8,81.35,,19,true
+135,39,Isle of the Dead,587663462-X,26.7,,9,false
+136,88,Royal Flash,707004115-2,25.47,,10,false
+137,21,Addams Family Reunion,512944925-8,70.66,,5,false
+138,64,"Like Father, Like Son",944743024-4,55.54,,18,false
+139,35,Joni's Promise,673562473-4,121.77,,17,false
+140,53,"Sex, Lies, and Videotape",193428831-4,118.03,,4,true
+141,50,Torn Curtain,881336458-X,93.04,,15,false
+142,53,Mister Johnson,554644997-7,126.3,,9,true
+143,50,Looper,177891265-6,64.1,,11,true
+144,96,The Missouri Breaks,814051836-0,126.29,,19,false
+145,79,"Slumber Party Massacre, The",668076338-X,127.35,,7,true
+146,43,Let My Puppets Come,483718098-1,136.97,,20,true
+147,5,"Woman in Black, The",371374058-5,143.22,,17,false
+148,71,Dirty Wars,917702281-5,136.12,,1,true
+149,51,Libre échange,362523355-X,46.37,,6,true
+150,78,"Challenge, The",953464960-0,119.43,,20,true
+151,36,Ballerina (La mort du cygne),242275675-1,147.39,,10,false
+152,14,Thrashin',946474537-1,91.85,,12,false
+153,62,Scandal (Shubun),071893149-1,55.5,,12,false
+154,91,Ace Ventura: Pet Detective,563174007-9,124.2,,20,false
+155,66,"Most Wanted Man, A",151735616-4,88.15,,8,true
+156,47,Sweet and Lowdown,085888859-9,136.82,,15,true
+157,38,Bus Stop,728174408-0,75.18,,11,true
+158,58,Stop Train 349,398727865-X,19.96,,14,true
+159,60,"Housemaid, The (Hanyo)",605488407-7,53.66,,4,false
+160,97,"Thousand Months, A (Mille mois)",964576517-X,78.38,,6,true
+161,58,Crossroads,526468629-7,16.74,,17,false
+162,91,Halloweentown,484582127-3,100.81,,5,false
+163,97,Monsieur Batignole,452634501-6,56.94,,17,false
+164,2,"Devil Dared Me To, The",006592255-7,92.23,,8,true
+165,13,Hercules,765275690-1,120.54,,7,false
+166,3,Spirit Trap,115390047-5,127.51,,12,false
+167,68,Perfectly Normal,978823860-2,106.62,,10,false
+168,2,"American Crime, An",393090096-3,47.28,,8,true
+169,16,7 Khoon Maaf,162890372-4,40.08,,17,true
+170,87,"Devil's Trap, The (Dáblova past)",648687148-2,7.1,,10,false
+171,76,"Innocent, The",259233878-0,16.38,,9,true
+172,80,"Kevin Nealon: Whelmed, But Not Overly",850983058-4,82.64,,12,true
+173,72,The Gamers: Hands of Fate,094589177-6,38.77,,19,true
+174,40,Village of the Damned,843611128-1,48.84,,13,true
+175,88,Runaway,386722956-2,51.57,,12,false
+176,18,"Great Dictator, The",276183387-2,7.12,,8,true
+177,60,Megamind,386700145-6,20.82,,10,false
+178,58,Battle of the Year,893277136-7,135.72,,2,false
+179,56,"Story of Qiu Ju, The (Qiu Ju da guan si)",078661896-5,145.14,,3,true
+180,60,"Return to Homs, The",095400777-8,40.46,,18,false
+181,25,"Sisters, The",823292300-8,47.47,,19,true
+182,98,"Dry White Season, A",884760313-7,44.26,,14,false
+183,74,"To Have, or Not (En avoir (ou pas))",622165269-3,89.48,,9,true
+184,3,Girls Gone Dead,287036475-X,123.74,,16,true
+185,16,Dream Machine,398927001-X,7.82,,3,true
+186,100,Infernal Affairs (Mou gaan dou),527750943-7,49.51,,17,false
+187,1,Lucy,553254437-9,40.26,,15,true
+188,42,"Glass Menagerie, The",924056679-1,149.74,,4,true
+189,98,"St. Francisville Experiment, The",600934230-9,95.85,,16,true
+190,97,"Sleepy Time Gal, The",514799482-3,34.94,,12,false
+191,51,Psycho Beach Party,597271322-5,18.1,,16,false
+192,80,Logan's Run,420625563-6,133.48,,2,false
+193,93,Condo Painting,782438879-4,28.35,,2,true
+194,75,Scream 4,194409514-4,92.4,,15,false
+195,30,Etoiles: Dancers of the Paris Opera Ballet (Tout Près des étoiles),518322995-3,9.77,,2,true
+196,31,I'll Sleep When I'm Dead,365129218-5,50.74,,5,false
+197,75,Temptress Moon (Feng Yue),680673731-5,120.63,,5,false
+198,14,"Wedding, A",189663129-0,31.75,,7,false
+199,81,Witch's Night Out,494237688-2,92.96,,1,false
+200,22,Underground,234979423-7,19.18,,13,false
+201,75,Bustin' Down the Door,605435084-6,128.59,,6,false
+202,70,Neighbors,984023639-3,130.91,,10,true
+203,34,Terminal Velocity,431690962-2,30.63,,8,true
+204,3,"Ilsa, She Wolf of the SS",607910439-3,66.74,,19,false
+205,79,The Indian Fighter,097611692-8,67.67,,19,true
+206,68,Young Goethe in Love,224668230-4,61.47,,7,true
+207,97,"Crossing Guard, The",925165192-2,75.01,,12,true
+208,57,Attila,296875973-6,17.06,,5,true
+209,90,"Worthless, The (Arvottomat)",245082512-6,53.02,,11,false
+210,63,Jack and Jill,209585654-6,64.99,,1,false
+211,41,Life's a Breeze,503241297-X,39.44,,13,true
+212,28,"Scorpion King 2: Rise of a Warrior, The",163932957-9,39.49,,16,false
+213,5,Confessions of a Window Cleaner,620107075-3,72.13,,3,false
+214,23,"Henry V",345220225-9,96.43,,15,false
+215,92,Blackjack,209977478-1,141.31,,14,false
+216,10,Billion Dollar Brain,979206354-4,81.3,,13,false
+217,22,White Shadows in the South Seas,490458961-0,90.59,,6,false
+218,67,Blue Jasmine,496257535-X,39.79,,12,true
+219,36,"Regular Lovers (Amants réguliers, Les)",862503101-3,82.94,,1,true
+220,67,Lifeguard,105240337-9,131.87,,20,true
+221,27,Xingu ,503461350-6,8.89,,20,true
+222,7,Winnie the Pooh and a Day for Eeyore,002902077-8,118.26,,9,true
+223,45,Live Flesh (Carne trémula),055981820-3,10.07,,1,false
+224,84,Get Real,266261433-1,137.96,,20,true
+225,64,"Two Women (Ciociara, La)",415957615-X,65.47,,9,false
+226,53,I Hate But Love (Nikui an-chikushô),930109006-6,102.97,,12,true
+227,51,"Inbetweeners 2, The",927177143-5,63.93,,1,false
+228,24,"Millionaire for Christy, A (Golden Goose) (No Room for the Groom)",470273133-5,136.77,,3,false
+229,15,Impudent Girl (L'effrontée),810823929-X,113.94,,16,true
+230,96,Mission to Mars,128082610-X,116.75,,15,false
+231,92,To the Left of the Father (Lavoura Arcaica),486965135-1,115.48,,18,true
+232,83,Drive-In Horrorshow,946745161-1,29.61,,15,true
+233,93,"Wild Parrots of Telegraph Hill, The",105609687-X,138.28,,10,false
+234,24,Lethal Weapon,416932393-9,16.66,,7,true
+235,24,Fall of the Republic: The Presidency of Barack H. Obama,750141156-5,39.61,,7,true
+236,18,"Sing a Song of Sex (Treatise on Japanese Bawdy Songs, A) (Nihon shunka-kô)",020659654-5,16.71,,18,false
+237,100,"Expert, The",527559954-4,76.34,,10,true
+238,59,Angels and Insects,856249072-5,117.58,,9,false
+239,17,Torpedo Run,212570371-8,101.57,,7,true
+240,23,Home Alone 4,113139522-0,130.24,,18,true
+241,87,Mustasukkaisuus,109251101-6,113.63,,7,true
+242,76,New Year's Eve,347233244-1,88.86,,16,false
+243,96,Deranged,251674019-0,28.88,,7,true
+244,49,O.C. and Stiggs,477979905-8,57.7,,11,false
+245,60,Eaux d'artifice,793216387-0,24.38,,3,true
+246,33,Uncovered,963976640-2,113.25,,9,true
+247,76,Live Flesh (Carne trémula),576091360-3,30.53,,16,false
+248,84,Judgement Day,564418516-8,60.09,,15,false
+249,85,Mrs. Henderson Presents,781690708-7,80.7,,1,true
+250,11,Pathetic Fallacy (Ajantrik),278833904-6,85.64,,8,true
+251,91,La montaña rusa,360488442-X,127.68,,19,false
+252,26,Deep Blue,134632983-4,117.19,,10,true
+253,32,MacGyver: Lost Treasure of Atlantis,516750740-5,118.59,,10,true
+254,30,Water-mirror of Granada,815304030-8,126.1,,7,true
+255,88,Ten Skies,353914165-0,118.35,,17,true
+256,83,Happy Feet Two,769872742-4,60.28,,8,true
+257,88,Cold Prey (Fritt Vilt),539290322-3,18.06,,19,true
+258,79,Shanghai Calling,882147060-1,23.19,,8,false
+259,44,"Seeker: The Dark Is Rising, The",364804553-9,123.0,,17,true
+260,63,My Name Is Joe,383025242-0,104.72,,18,false
+261,78,Pluto's Christmas Tree,620124613-4,117.72,,7,false
+262,8,Darling,696533027-9,44.3,,9,false
+263,71,Jurassic Park,055905027-5,97.11,,1,true
+264,97,"Horse Whisperer, The",705379841-0,141.78,,6,true
+265,42,Grand Prix,237601772-6,102.37,,2,false
+266,62,Just Like a Woman,945900369-9,61.35,,17,false
+267,88,"Finances of the Grand Duke, The (Die Finanzen des Großherzogs)",709713118-7,48.93,,18,true
+268,56,"36th Chamber of Shaolin, The (Shao Lin san shi liu fang) (Master Killer)",569967769-0,51.82,,17,true
+269,1,Disturbia,932671364-4,65.65,,13,true
+270,47,"Passion of the Christ, The",224368559-0,115.55,,4,false
+271,35,Step Up 3D,071601708-3,95.94,,9,true
+272,10,"Handful of Dust, A",251127963-0,96.59,,13,false
+273,98,Zombies of Mora Tau,684649126-0,30.3,,2,true
+274,63,Bad Karma,362395369-5,15.09,,13,true
+275,81,Joe's Apartment,851268330-9,144.05,,10,false
+276,29,Little Lord Fauntleroy,296131996-X,47.3,,16,true
+277,44,"Ape, The (Apan)",862206883-8,123.51,,19,true
+278,61,Private Lessons (Élève libre),850126327-3,139.8,,3,false
+279,98,Amorosa,297620496-9,127.78,,16,true
+280,35,Assassination Tango,337866132-1,149.94,,13,false
+281,22,Tarantella,229563143-2,148.18,,11,false
+282,13,On the Town,973292987-1,35.47,,16,false
+283,69,"Back-up Plan, The",306862782-6,118.29,,16,true
+284,37,Under the North Star (Täällä Pohjantähden alla),293818200-7,11.27,,16,false
+285,20,No Logo,197014724-5,92.53,,19,false
+286,2,Sexual Life,341681150-X,75.54,,1,true
+287,90,Kevin Nealon: Now Hear Me Out!,022237756-9,129.54,,14,false
+288,24,"Night Walker, The",186896605-4,119.65,,18,true
+289,96,Guy,265115145-9,95.93,,15,false
+290,41,L.A. Zombie,315031264-7,6.86,,18,true
+291,67,"Return of a Man Called Horse, The",916112322-6,133.64,,12,false
+292,23,Rolling Thunder,943456406-9,95.13,,17,false
+293,2,"Scarlet Empress, The",918156132-6,113.08,,15,true
+294,43,"Basketball Diaries, The",642857288-5,98.27,,15,true
+295,64,Holidaze,500382425-4,22.87,,3,true
+296,37,"Bridge, The (Brücke, Die)",534625482-X,140.92,,12,true
+297,89,"Artist, The",164529175-8,116.6,,5,true
+298,50,Scarlet Street,510902382-4,93.71,,15,false
+299,29,"Lost World, The",153259011-3,34.17,,5,true
+300,13,Satisfaction (a.k.a. Girls of Summer),861182981-6,61.47,,2,false
+301,70,It Boy (20 ans d'écart),683254830-3,28.23,,16,false
+302,64,Bernie,474676937-0,142.94,,18,false
+303,21,Che: Part Two,261953470-4,147.7,,4,true
+304,92,Gett: The Trial of Viviane Amsalem,837983516-6,63.39,,3,true
+305,92,Today's Special,857836946-7,61.89,,1,false
+306,78,Straw Dogs,650327667-2,13.2,,2,false
+307,3,Ice Age Columbus: Who Were the First Americans?,349915981-3,99.66,,4,false
+308,4,Mixed Blood,594961181-0,92.12,,19,false
+309,19,Mysteries of Lisbon (Mistérios de Lisboa),016949089-0,118.07,,12,false
+310,18,Viva María!,902472586-0,123.51,,5,false
+311,55,"Book Thief, The",486665360-4,49.27,,7,false
+312,97,Vääpeli Körmy ja marsalkan sauva,860374677-X,117.03,,9,true
+313,44,King Kong,383410990-8,32.36,,3,true
+314,78,Dutchman,611770251-5,105.7,,7,false
+315,40,"Adventures of Sherlock Holmes, The",685546046-1,33.94,,5,true
+316,59,"Borrowers, The",059938511-1,96.86,,13,false
+317,47,Beware of a Holy Whore (Warnung vor einer heiligen Nutte),963972076-3,123.64,,19,true
+318,25,Julia and Julia (Giulia e Giulia),535074991-9,86.88,,13,true
+319,61,Wirey Spindell,186555219-4,21.13,,9,false
+320,30,No Time for Love,739284982-4,109.51,,10,true
+321,93,Run,320571041-X,58.25,,13,false
+322,94,I Love You Too,966993187-8,99.65,,15,false
+323,29,The Day I Saw Your Heart,653058681-4,117.35,,10,true
+324,31,Revenge of the Pink Panther,761204181-2,85.93,,2,false
+325,51,This Special Friendship (Les amitiés particulières),590351178-3,106.06,,10,false
+326,76,Cinderella,473745695-0,94.51,,9,true
+327,46,Crackerjack,787700580-6,27.82,,6,false
+328,61,Blow,081117739-4,14.29,,6,true
+329,85,Punk's Dead: SLC Punk! 2,199766987-0,109.69,,16,false
+330,28,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The",516469304-6,143.33,,20,false
+331,46,The Mascot,432833348-8,62.35,,8,false
+332,70,Mr. Smith Goes to Washington,096348332-3,8.43,,6,false
+333,45,Pinchcliffe Grand Prix (Flåklypa Grand Prix),654830904-9,64.89,,10,false
+334,8,Brides of Dracula,624530616-7,49.07,,3,false
+335,57,Man's Castle,858423934-0,88.13,,7,false
+336,68,Bionicle: Mask of Light (Bionicle: Mask of Light - The Movie),506901883-3,67.17,,1,true
+337,57,My Brother Tom,815466410-0,119.24,,16,false
+338,75,"Diary of a Chambermaid (Journal d'une femme de chambre, Le)",050610507-5,30.56,,18,false
+339,58,Killshot,288064814-9,62.72,,9,true
+340,98,The Substitute 4: Failure Is Not an Option,475428572-7,125.55,,7,true
+341,10,Hell Drivers,128643313-4,119.62,,1,true
+342,60,Vinyan,207442348-9,127.24,,4,true
+343,58,"Doll's House, A",627751814-3,70.8,,13,false
+344,55,Homeward Bound: The Incredible Journey,346982363-4,104.39,,8,false
+345,94,"Film with Me in It, A",381778017-6,112.99,,19,false
+346,1,Kids of the Round Table,780495051-9,79.55,,4,false
+347,33,Que Viva Mexico (¡Que Viva Mexico! - Da zdravstvuyet Meksika!),129616355-5,109.92,,12,false
+348,2,Or (a.k.a. My Treasure),638051610-7,29.38,,20,true
+349,45,"Great Mouse Detective, The",937862434-0,43.7,,3,false
+350,59,"Fugitive, The",556518749-4,109.18,,19,false
+351,7,Body Snatchers,077761965-2,78.42,,9,true
+352,17,Uuno in Spain,530621187-9,98.25,,19,true
+353,6,The Dark Valley,855397790-0,93.01,,1,true
+354,74,Fletch,078586870-4,44.3,,2,false
+355,68,Darfur Now,504781596-X,127.51,,19,true
+356,59,Pandora's Promise,650073163-8,71.97,,10,false
+357,31,"Hamlet, Prince of Denmark",320245576-1,147.4,,20,false
+358,43,Thin Ice,767814725-2,82.89,,15,false
+359,23,Submarine,251886449-0,146.53,,8,true
+360,9,Attack Force,890414087-0,142.21,,7,false
+361,90,E.T. the Extra-Terrestrial,652344699-9,18.54,,7,true
+362,92,"Bittersweet Life, A (Dalkomhan insaeng)",944609641-3,59.17,,13,true
+363,69,"Poughkeepsie Tapes, The",257134477-3,88.71,,11,true
+364,46,Charlie Chan in The Chinese Cat,980397158-1,53.75,,11,true
+365,23,False Trail (Jägarna 2),555314830-8,86.04,,9,true
+366,62,"Adventures of Baron Munchausen, The",931567236-4,30.78,,12,false
+367,53,Moonlight Serenade,830438254-7,38.75,,6,false
+368,75,"Savage Innocents, The",314944114-5,74.77,,13,true
+369,49,China O'Brien,543233922-6,39.67,,8,true
+370,13,Behind Enemy Lines: Colombia (Behind Enemy Lines 3: Ghost Watch),669620794-5,88.52,,13,true
+371,13,Kurt Cobain: Montage of Heck,148717114-5,83.15,,5,false
+372,39,We Are Legion: The Story of the Hacktivists,736042032-6,117.9,,17,true
+373,87,"China 9, Liberty 37 (Amore, piombo e furore)",852085754-X,128.9,,3,false
+374,28,"Comedians of Comedy, The",092716540-6,94.26,,15,false
+375,3,American Heart,894274548-2,30.91,,1,false
+376,41,Facing the Truth (At kende sandheden),710654503-1,50.38,,1,false
+377,62,Jalla! Jalla!,459714335-1,129.61,,14,false
+378,7,Winnetou: The Last Shot,051155631-4,42.58,,15,false
+379,27,In the Soup,682143494-8,33.35,,9,false
+380,36,In Their Sleep (Dans ton sommeil),376883478-6,112.52,,18,false
+381,23,Attack of the 50 Foot Woman,911036854-X,143.21,,18,true
+382,44,Outrageous Class (Hababam sinifi),897289916-X,115.54,,9,false
+383,77,Home Run,929058422-X,12.62,,16,false
+384,83,"Inn in Tokyo, An (Tôkyô no yado)",903380657-6,140.25,,16,true
+385,6,My Brother Tom,505087436-X,71.12,,2,true
+386,45,"Girls Can't Swim (Filles ne savent pas nager, Les)",556609673-5,13.45,,11,true
+387,28,Mammy,617419236-9,27.74,,8,false
+388,68,"Giant Spider Invasion, The",813079731-3,120.31,,5,true
+389,35,History of Hell (Rosas Höllenfahrt),492117869-0,109.84,,10,true
+390,70,Young Again,835806131-5,107.91,,15,true
+391,68,Champion,040404280-5,60.44,,15,true
+392,8,"Lost Missile, The",744328144-7,100.83,,3,false
+393,45,The Feminine Touch,045699265-0,13.71,,4,false
+394,73,"Yor, the Hunter from the Future",561725362-X,134.19,,13,false
+395,34,Dave Attell: Captain Miserable,645987762-9,56.86,,5,true
+396,44,My Dog Tulip,604157046-X,139.31,,7,true
+397,19,Reds,409031241-8,32.29,,3,false
+398,22,Defying Gravity,785499776-4,82.49,,5,false
+399,90,Machete Maidens Unleashed!,839366269-9,45.13,,4,true
+400,27,We Are the Best! (Vi är bäst!),571668432-7,115.1,,7,false
+401,27,"Veteran, The",759087651-8,131.12,,18,false
+402,30,Bride of Boogedy,569231417-7,106.54,,3,true
+403,75,Dead Man Walking,091099567-2,92.01,,15,false
+404,27,Fearless,653575877-X,44.38,,6,true
+405,67,Paris-Manhattan,754030132-5,73.39,,10,true
+406,10,"War Is Over, The (Guerre est finie, La)",178995703-6,36.02,,4,true
+407,15,Epic Movie,117012626-X,59.98,,19,true
+408,42,Pontypool,982739161-5,47.9,,9,true
+409,50,Louis C.K.: Chewed Up,484684131-6,90.07,,2,true
+410,47,Km. 0 - Kilometer Zero (Kilómetro cero),914621749-5,76.63,,1,true
+411,75,Get Crazy,994728037-3,37.49,,9,true
+412,19,Shiner,875966235-2,18.63,,17,false
+413,60,"Fallen Sparrow, The",092796083-4,22.93,,11,false
+414,52,After Last Season,322963789-5,146.7,,8,true
+415,56,"Swordsman II (Legend of the Swordsman, The) (Xiao ao jiang hu zhi: Dong Fang Bu Bai)",096303904-0,122.79,,2,true
+416,36,"Maria, ihm schmeckt's nicht! (Maria, He Doesn't Like It)",182926626-8,133.15,,5,true
+417,79,"Amati Girls, The",526700657-2,146.39,,18,true
+418,9,Skin Deep,702663957-9,123.71,,19,true
+419,1,Lies (Gojitmal),363620915-9,133.92,,6,false
+420,89,Music in the Air,985058430-0,73.78,,10,false
+421,54,"Omega Code, The",063717765-7,126.22,,11,false
+422,70,Cavemen,427813821-0,41.86,,18,false
+423,64,"White Balloon, The (Badkonake sefid)",192003163-4,141.63,,8,true
+424,62,"Reckless Moment, The",916501941-5,96.75,,11,false
+425,5,Zift,017310783-4,119.03,,5,false
+426,73,Burn Paris Burn,189532175-1,40.45,,12,true
+427,30,Conserva Acabada,770480688-2,144.39,,12,true
+428,76,Three Little Words,772134584-7,58.05,,20,true
+429,1,Holy Man,920976216-9,87.68,,15,false
+430,81,Two Women,132885978-9,79.41,,19,true
+431,3,De la servitude moderne,647317811-2,74.32,,2,true
+432,98,Atlantic City,857244598-6,79.26,,2,true
+433,51,Cherrybomb,056438770-3,36.2,,3,false
+434,24,Swordfish,378167051-1,131.16,,2,true
+435,9,Salon Kitty,762142147-9,79.69,,14,false
+436,70,"Fistful of Dollars, A (Per un pugno di dollari)",396565069-6,45.72,,10,false
+437,24,X: The Man with the X-Ray Eyes,336216221-5,60.06,,4,false
+438,89,"Cruise, The",720773943-5,119.42,,19,true
+439,20,Growth,500342794-8,79.43,,14,false
+440,39,Shadowboxer,039473758-X,107.24,,17,true
+441,67,Ordinary Miracles,275107408-1,68.49,,15,true
+442,14,Route 666,519746183-7,20.65,,3,false
+443,94,"Ultimate Gift, The",712467011-X,47.91,,3,true
+444,12,Angels with Dirty Faces,204791999-1,146.12,,12,true
+445,51,Dead Silence,472286840-9,115.82,,4,true
+446,10,101 Dalmatians (One Hundred and One Dalmatians),202511181-9,19.99,,11,true
+447,17,Truth or Die ,629418483-5,69.46,,7,true
+448,66,"Story of a Cheat, The (Roman d'un tricheur, Le)",392873866-6,97.61,,7,true
+449,54,633 Squadron,496955044-1,26.09,,9,false
+450,17,Girls Gone Dead,180912682-7,62.25,,9,false
+451,37,Rosencrantz and Guildenstern Are Undead,213740431-1,23.72,,1,true
+452,1,Drunken Tai Chi (Siu taai gik),831785751-4,33.93,,1,true
+453,80,Children of Invention,887826282-X,126.85,,8,false
+454,22,The Mayor of Casterbridge,878903070-2,67.27,,6,false
+455,54,Mister Magoo's Christmas Carol,520115593-6,51.09,,9,true
+456,79,Disraeli,502523126-4,49.6,,1,false
+457,75,A-Haunting We Will Go,741329119-3,119.13,,12,true
+458,26,Crude,498815153-0,46.37,,15,true
+459,14,Taxi zum Klo,555674889-6,77.23,,7,true
+460,18,Captain January,894255162-9,27.45,,15,true
+461,33,King of Germany,463517275-9,101.48,,20,true
+462,39,Desi Boyz,549423262-X,46.67,,20,true
+463,52,Boys Love,707476119-2,144.33,,6,true
+464,5,Frankie and Alice,462722750-7,14.65,,19,false
+465,98,"Wraith, The",717009255-7,45.96,,12,false
+466,16,"Gas, Food, Lodging",205328150-2,104.99,,16,false
+467,19,American Flyers,432077353-5,82.79,,1,false
+468,40,Stephen Tobolowsky's Birthday Party,482243118-5,98.85,,16,false
+469,71,Star Kid,624258552-9,86.85,,10,false
+470,19,Death by Hanging (Koshikei),370782343-1,35.03,,1,true
+471,14,"Son of the Bride (Hijo de la novia, El)",504991247-4,56.01,,18,false
+472,52,Into the Sun,995770910-0,33.23,,19,true
+473,19,The Hobbit: The Battle of the Five Armies,012088225-6,125.28,,17,true
+474,58,Freakonomics,874492642-1,30.37,,2,true
+475,76,Just Friends?,728607719-8,23.72,,8,false
+476,30,"Centenarian Who Climbed Out the Window and Vanished",018714911-9,93.57,,16,true
+477,62,Seance on a Wet Afternoon,353196302-3,6.29,,2,true
+478,3,"Mother's Courage",132225266-1,105.77,,18,false
+479,50,Excuse My Dust,038361470-8,149.08,,5,true
+480,53,Better Things,082959329-2,135.46,,3,true
+481,87,Louisiana Story,259069563-2,118.61,,19,false
+482,59,An American Hippie in Israel,968920069-0,43.73,,8,true
+483,77,Real Genius,071734161-5,34.85,,9,false
+484,80,Holes in My Shoes,751416322-0,44.14,,12,false
+485,34,Awake,266887188-3,101.58,,4,true
+486,35,Bad Girls,805987444-6,105.58,,20,false
+487,40,Unlawful Entry,611975849-6,80.59,,16,true
+488,56,"Betrayed (True and the Brave, The)",714657702-3,140.45,,18,false
+489,29,"Two Days, One Night (Deux jours, une nuit)",232836720-8,118.31,,7,true
+490,46,Islander,948276394-7,140.75,,13,false
+491,81,"Son of Monte Cristo, The",078449325-1,38.45,,1,true
+492,79,"Face in the Crowd, A",889686805-X,46.96,,7,false
+493,66,Justin Bieber: Never Say Never,500237279-1,86.71,,9,true
+494,4,"Black Heaven (L'autre monde) (Other World, The)",664688634-2,95.24,,11,false
+495,71,The Amazing Spider-Man 2,936558131-1,42.15,,15,false
+496,31,Hombre,015245788-7,25.78,,7,true
+497,95,In Harm's Way,575484603-7,138.91,,12,true
+498,11,The Land Before Time VII: The Stone of Cold Fire,047426110-7,149.18,,15,false
+499,46,Blackhat,021757615-X,124.96,,18,false
+500,19,Bootmen,419170973-9,44.52,,13,true
+501,23,Charlie Chan at Monte Carlo,519760831-5,8.15,,19,true
+502,99,Analyze This,484496542-5,64.76,,9,true
+503,51,Midnight Express,462768508-4,14.62,,2,true
+504,36,Husbands,179449704-8,124.1,,18,false
+505,34,Trauma,194524327-9,65.45,,16,false
+506,27,Firehouse Dog,022834296-1,122.26,,14,true
+507,65,Jimmy Hollywood,894010636-9,102.0,,4,true
+508,25,Wild Man Blues,139976040-8,104.2,,18,true
+509,100,"Student Prince in Old Heidelberg, The",025704141-9,56.03,,11,false
+510,94,Damsels in Distress,089664290-9,135.65,,7,true
+511,94,Don't Look Back (Ne te retourne pas),121288057-9,85.12,,8,false
+512,27,Sing Your Song,136286979-1,11.6,,4,false
+513,48,20 Years After,451902374-2,132.3,,12,true
+514,13,Fahrenheit 9/11,110246000-1,148.57,,4,false
+515,36,I Like Killing Flies,427144197-X,51.54,,17,true
+516,65,Jiro Dreams of Sushi,928059707-8,77.33,,15,false
+517,18,Big Nothing,625682566-7,101.31,,14,true
+518,52,Iron Jawed Angels,943519835-X,86.03,,18,false
+519,57,Diary of a Wimpy Kid: Rodrick Rules,337156844-X,132.93,,11,false
+520,31,Amazing Grace and Chuck,916395013-8,22.82,,8,false
+521,78,"Walk Among the Tombstones, A",880737071-9,54.32,,7,false
+522,7,Bliss,197493583-3,13.71,,8,false
+523,96,Starred Up,588866240-2,72.15,,18,true
+524,17,Breakfast with Scot,467138560-0,49.96,,4,false
+525,61,Shadow of the Holy Book (Pyhän kirjan varjo),339471138-9,17.42,,7,false
+526,27,Love's Enduring Promise,023923920-2,111.07,,19,true
+527,8,Monkey Shines,105990661-9,148.17,,14,false
+528,82,Pontypool,279751552-8,86.62,,3,true
+529,21,From the Sky Down,885581422-2,129.0,,17,true
+530,22,Henry: Portrait of a Serial Killer,021235692-5,23.99,,7,false
+531,22,Ring of Bright Water,781152465-1,78.29,,18,true
+532,28,Gracie's Choice,195334765-7,31.44,,16,false
+533,54,Suspicious River,194453273-0,68.22,,20,true
+534,38,Something in the Air (Apres Mai),049670140-1,12.08,,6,false
+535,49,They Bite,617974798-9,136.24,,12,true
+536,55,The Flower in His Mouth,468583829-7,120.52,,6,true
+537,79,Hanzo the Razor: Sword of Justice (Goyôkiba),410780722-3,14.8,,15,false
+538,34,"Porn Theater (Chatte à deux têtes, La)",082538122-3,129.21,,4,true
+539,59,Billy's Hollywood Screen Kiss,004153751-3,95.68,,9,true
+540,98,Super Troopers,574926828-4,121.01,,3,true
+541,55,Gasoline (Benzina),319994192-3,134.11,,8,false
+542,56,Doomwatch,096348816-3,53.66,,14,false
+543,71,Thoughtcrimes,988756627-6,23.97,,17,false
+544,85,"Living Ghost, The",817624089-3,59.67,,16,false
+545,66,"Leopard, The (Gattopardo, Il)",403658942-3,9.01,,18,true
+546,5,Att stjäla en tjuv,966204433-7,134.88,,5,false
+547,46,Scooby-Doo! The Mystery Begins,786001988-4,41.2,,7,true
+548,35,What Maisie Knew,527443226-3,103.07,,16,true
+549,82,World Trade Center,401730469-9,61.77,,13,false
+550,14,Crossover,834299981-5,46.07,,11,false
+551,1,Ponette,449651230-0,43.77,,5,true
+552,56,"Blue Bird, The",381399240-3,37.36,,4,false
+553,20,Madagascar Skin,401974480-7,123.51,,18,false
+554,77,Pretty Things,330958144-6,134.75,,5,false
+555,51,Thirty Day Princess,072630943-5,86.57,,8,false
+556,78,"Paper Will Be Blue, The (Hîrtia va fi albastrã)",751159622-3,129.73,,19,true
+557,45,Universal Soldier: The Return,340981093-5,83.81,,14,true
+558,70,Ghosts of Mississippi,102560990-5,70.73,,2,false
+559,55,Journey to the Center of the Earth,211421941-0,10.71,,9,true
+560,50,"Southerner, The",393310531-5,93.1,,1,true
+561,65,Act of Aggression,461139222-8,140.56,,2,false
+562,34,"Circle, The (Dayereh)",798286780-4,113.4,,16,false
+563,64,Maid to Order,343052428-8,120.02,,18,true
+564,65,"Lost Missile, The",441668265-4,9.9,,15,false
+565,48,Body Fat Index of Love,150947144-8,17.48,,14,false
+566,28,City Lights,664624948-2,9.26,,1,true
+567,3,Support Your Local Gunfighter,870105953-X,92.6,,2,false
+568,79,"Frozen Ground, The",075140607-4,109.3,,6,true
+569,29,"Cucaracha, La",601556633-7,38.12,,15,false
+570,27,City Hunter (Sing si lip yan),874244799-2,83.13,,18,true
+571,5,The Pirates of Blood River,888474376-1,122.15,,5,false
+572,97,Brewster's Millions,527511102-9,93.63,,4,false
+573,85,Kes,879569024-7,114.87,,1,false
+574,28,Brokedown Palace,544197891-0,135.8,,2,false
+575,74,Deep Red (Profondo rosso),340215139-1,80.82,,6,true
+576,22,Dr. Goldfoot and the Bikini Machine,171605994-1,113.94,,15,true
+577,1,Nuts,867076882-8,124.24,,9,true
+578,48,Sex Lives of the Potato Men,418040243-2,72.44,,4,true
+579,12,Big Game,147045541-2,42.39,,7,false
+580,45,Implanted,657807030-3,94.49,,14,true
+581,90,Terra (a.k.a. Battle for Terra),382136857-8,22.22,,19,false
+582,63,Hôtel des Invalides,570433812-7,25.0,,3,false
+583,64,Daughter of the Nile (Ni luo he nu er),079408916-X,138.35,,9,false
+584,18,Killer's Kiss,723575053-7,134.67,,2,true
+585,99,"Island of Dr. Moreau, The",573297101-7,31.8,,16,true
+586,10,"Big Fix, The",699679690-3,54.51,,3,false
+587,64,Bush's Brain,770734183-X,36.6,,18,false
+588,76,Room Service,082951784-7,73.82,,16,false
+589,37,"Reckless Moment, The",505494934-8,30.4,,16,false
+590,43,Hush,677442206-3,46.88,,12,true
+591,34,"Right Kind of Wrong, The",455894301-6,95.22,,3,true
+592,37,Thunderheart,343102051-8,146.51,,3,false
+593,16,Sister Helen ,928394660-X,46.01,,7,false
+594,19,Act Da Fool,471599670-7,9.16,,20,true
+595,14,White Dog,246043434-0,67.45,,6,false
+596,83,"Original Kings of Comedy, The",808612662-5,143.36,,12,false
+597,40,Our Sunhi,958281492-6,55.2,,17,false
+598,70,"Trip to Mars, A",586190065-5,19.58,,12,true
+599,4,Animated Motion: Part 5,547858957-8,88.23,,5,true
+600,86,Monkey Business,121660667-6,43.74,,5,true
+601,72,"Courtship of Eddie's Father, The",473495473-9,83.8,,2,false
+602,24,"Jimmy Show, The",660174595-2,74.94,,18,true
+603,96,Miss Congeniality 2: Armed and Fabulous,306980146-3,110.51,,5,false
+604,74,"Best Man, The",827471673-6,45.2,,17,true
+605,88,Jar City (Mýrin),228680790-6,71.59,,3,false
+606,9,Ride Along,680911890-X,47.84,,17,false
+607,89,Portrait Werner Herzog,908276717-1,134.0,,19,true
+608,56,Tickets,372597675-9,33.2,,10,false
+609,65,Levity,289473165-5,51.41,,6,false
+610,78,Human Desire,993651125-5,148.93,,7,true
+611,49,Rapture-Palooza,702991364-7,142.09,,4,false
+612,22,Moll Flanders,043217998-4,58.67,,18,true
+613,83,Ship of Fools,344548137-7,85.14,,17,true
+614,41,30 Minutes or Less,036217333-8,138.25,,14,false
+615,67,"Devil's Eye, The (Djävulens öga)",259237936-3,70.33,,20,true
+616,5,Thrashin',971878870-0,116.22,,9,true
+617,28,Like You Know It All (Jal aljido mothamyeonseo),635080213-6,74.0,,8,true
+618,46,Trust Me,762673503-X,14.88,,13,false
+619,51,Titanic,756492339-3,126.03,,10,true
+620,90,Shamus,772055653-4,14.9,,6,false
+621,33,Trek Nation,413823458-6,75.76,,5,true
+622,6,On the Silver Globe (Na srebrnym globie),662658961-X,90.05,,16,false
+623,81,What A Man,076791283-7,79.35,,15,true
+624,62,Junebug,609634030-X,101.41,,18,false
+625,85,"Wave, The (Welle, Die)",681701433-6,19.26,,15,true
+626,6,"Duchess of Langeais, The (a.k.a. Don't Touch the Axe) (Ne touchez pas la hache)",628548958-0,94.15,,11,false
+627,12,Cinema Paradiso (Nuovo cinema Paradiso),310514219-3,116.15,,4,true
+628,10,"Aura, The (Aura, El)",622092707-9,108.63,,14,true
+629,1,Birdwatchers (BirdWatchers - La terra degli uomini rossi),673306316-6,75.04,,4,false
+630,13,"Lucía, Lucía (Hija del caníbal, La)",502546601-6,127.28,,4,true
+631,86,Los Angeles Plays Itself,833749875-7,61.17,,4,true
+632,60,Staggered,052535586-3,67.31,,12,true
+633,10,Body of War,682294106-1,105.76,,2,true
+634,80,In the Company of Men,535443429-7,74.66,,12,false
+635,41,Space Amoeba (Yog: Monster from Space),524702403-6,112.88,,13,true
+636,94,"Return of Swamp Thing, The",618236219-7,31.1,,4,false
+637,91,Murder Ahoy,425189031-0,52.14,,15,true
+638,32,Easy to Love,767825198-X,122.14,,12,false
+639,82,Zulu,520527788-2,114.4,,5,true
+640,13,Gunner Palace,024246054-2,124.95,,17,true
+641,44,"Headless Woman, The (Mujer sin cabeza, La)",751951379-3,97.11,,1,true
+642,17,Paris Blues,046270922-1,42.39,,16,true
+643,98,"Pawnbroker, The",081985500-6,63.79,,8,false
+644,53,Mexican Hayride,964973586-0,37.96,,5,false
+645,13,The Land Before Time VIII: The Big Freeze,084670408-0,126.34,,3,false
+646,75,Jesse Stone: Sea Change,164300670-3,27.44,,5,false
+647,24,Cold Prey (Fritt Vilt),470963246-4,103.76,,18,false
+648,13,Pretty/Handsome,769258349-8,16.76,,3,true
+649,20,"Return of the Magnificent Seven, The (a.k.a. Return of the Seven)",091528322-0,129.08,,17,false
+650,37,Images of the World and the Inscription of War (Bilder der Welt und Inschrift des Krieges),361907698-7,97.67,,19,false
+651,61,"Conspirator, The",332127854-5,95.39,,7,false
+652,39,Four Adventures of Reinette and Mirabelle (4 aventures de Reinette et Mirabelle),085908676-3,122.75,,2,true
+653,1,"Swimmer, The",671597949-9,30.89,,18,true
+654,48,Mr. Denning Drives North,261604202-9,132.11,,11,true
+655,11,Every Little Step,816911214-1,33.52,,2,false
+656,82,Gaudi Afternoon,632910703-3,51.09,,9,false
+657,28,Aspen,698234469-X,60.54,,17,true
+658,7,"Snitch Cartel, The (El cartel de los sapos)",854517425-X,115.3,,13,true
+659,94,Justice League: The New Frontier ,720291048-9,105.84,,19,true
+660,73,"Captain's Paradise, The",889329928-3,13.42,,18,false
+661,31,These Amazing Shadows,011275227-6,116.07,,7,false
+662,51,"Swimmer, The",592575120-5,28.83,,16,false
+663,18,"Dinosaur Project, The",453174512-4,116.16,,15,true
+664,38,Air Doll (Kûki ningyô),065598065-2,116.28,,4,false
+665,51,"Mummy Returns, The",776854081-6,83.53,,16,false
+666,29,Peculiarities of the National Fishing (Osobennosti natsionalnoy rybalki),795858207-2,93.53,,6,true
+667,33,"Simpsons Movie, The",992408177-3,127.36,,4,false
+668,37,Angels and Insects,441568362-2,41.64,,8,false
+669,47,Mr. Jones,514445915-3,113.23,,20,false
+670,53,Warning from Space (Uchûjin Tôkyô ni arawaru),399182439-6,40.98,,4,true
+671,97,Street Fighter II: The Animated Movie (Sutorîto Faitâ II gekijô-ban),456098800-5,114.85,,15,false
+672,7,Shoot on Sight,345958736-9,42.41,,11,false
+673,80,Images of the World and the Inscription of War (Bilder der Welt und Inschrift des Krieges),144829996-9,36.38,,8,true
+674,58,"Keeper, The",782247376-X,35.89,,15,true
+675,63,"Man from London, The (A Londoni férfi)",008217550-0,124.66,,15,false
+676,17,"Little Princess, The",361370418-8,60.21,,10,true
+677,79,Off Beat,704146914-X,84.54,,20,true
+678,21,Suez,886998905-4,94.94,,2,false
+679,64,Bonnie and Clyde,403317558-X,23.25,,8,true
+680,11,Vermont Is For Lovers,180033644-6,28.93,,2,true
+681,15,Down From the Mountain,537701522-3,59.24,,19,true
+682,52,"Maltese Falcon, The (a.k.a. Dangerous Female)",526306339-3,38.04,,8,false
+683,18,"Lady is Willing, The",282832406-0,61.08,,18,true
+684,10,Horror Express,481339695-X,106.41,,11,true
+685,38,1408,312612374-0,23.18,,20,true
+686,93,In the Mood For Love (Fa yeung nin wa),459075954-3,75.12,,15,false
+687,28,Love Me Tonight,638441100-8,67.4,,14,false
+688,13,Monsters University,460185677-9,13.97,,3,true
+689,13,I Do,097101788-3,146.31,,4,false
+690,5,Muppets Most Wanted,487683080-0,26.95,,9,true
+691,80,Last Call at the Oasis,809674710-X,96.42,,8,true
+692,62,Antoine and Colette (Antoine et Colette),557953182-6,12.02,,1,false
+693,81,Karate-Robo Zaborgar (Denjin Zabôgâ),626695539-3,28.16,,15,true
+694,67,Rage,703965699-X,110.8,,4,false
+695,38,Champagne,491333598-7,35.16,,4,false
+696,55,La Luna,046203035-0,83.97,,11,true
+697,54,Training Day,900160215-0,19.95,,3,false
+698,50,Project X,565022912-0,38.74,,20,false
+699,75,Lesbian Vampire Killers,271712945-6,72.29,,5,true
+700,30,Small Wonders,130166676-9,138.89,,5,true
+701,75,Bride & Prejudice,911636018-4,122.3,,6,false
+702,70,"House of Rothschild, The",973938182-0,16.94,,2,false
+703,95,Big Man Japan (Dai-Nihonjin),268591120-0,66.35,,7,true
+704,29,Guardian Angel,104214371-4,143.84,,5,true
+705,99,Aaja Nachle,396122876-0,57.49,,11,false
+706,15,Out Cold,731973921-6,66.64,,11,false
+707,99,Roll Bounce,823252411-1,122.35,,12,true
+708,20,X-Men: The Last Stand,160819318-7,108.01,,4,true
+709,96,Heldorado,037133616-3,11.3,,13,true
+710,25,Caught Inside,749597963-1,124.23,,4,true
+711,36,"Bat, The",857829445-9,98.08,,1,true
+712,67,Quatermass 2 (Enemy from Space),034623782-3,89.43,,7,true
+713,39,Dillinger,627364629-5,62.45,,15,true
+714,59,Breathing Room,468375770-2,113.91,,1,true
+715,58,Riptide,460227450-1,123.46,,3,true
+716,47,Revenge for Jolly!,312552677-9,141.18,,19,false
+717,97,Kill Your Darlings,435837210-4,77.84,,14,false
+718,73,Monogamy ,767214871-0,59.33,,18,true
+719,49,"Journey, The",680623496-8,99.96,,11,true
+720,24,Pelle the Conqueror (Pelle erobreren),482097387-8,17.67,,8,true
+721,48,Red Dawn,382055040-2,80.82,,5,true
+722,16,Dancing Lady,955298960-4,32.13,,11,true
+723,99,Disturbing Behavior,156827292-8,23.65,,14,true
+724,39,Tron,365234615-7,90.76,,11,false
+725,19,Zombie Island Massacre,724912933-3,28.94,,5,true
+726,80,Patema Inverted,156057109-8,17.44,,16,false
+727,7,Kevin Hart: I'm a Grown Little Man,882980405-3,27.45,,1,true
+728,4,Snowblind,761588668-6,122.73,,14,true
+729,39,Bride of Re-Animator,264655235-1,44.79,,3,false
+730,3,Hard Times,170450609-3,108.61,,18,true
+731,83,Billy the Kid,397231085-4,72.68,,4,false
+732,49,Resurrection,484755838-3,79.75,,14,false
+733,38,Repulsion,723270903-X,104.99,,1,false
+734,72,ParaNorman,867003607-X,146.78,,11,false
+735,85,Inside,037063544-2,126.01,,3,true
+736,33,Lord of Tears,716830707-X,130.17,,9,false
+737,93,Hero,489838029-8,43.07,,16,true
+738,43,Forever Hardcore: The Documentary,644758322-6,30.24,,17,false
+739,22,"Stendhal Syndrome, The (Sindrome di Stendhal, La)",161778064-2,101.29,,19,false
+740,14,Easy Street,038692908-4,25.77,,1,false
+741,88,"Puff, Puff, Pass",638588872-X,56.51,,5,false
+742,11,"Underground Comedy Movie, The",309498148-8,105.4,,9,false
+743,10,Unknown Pleasures (Ren xiao yao),816933001-7,133.75,,14,true
+744,94,City Slickers,418348053-1,66.09,,15,true
+745,54,"Trail of the Lonesome Pine, The",119458115-3,22.18,,5,false
+746,59,Parasite,586550023-6,13.62,,20,true
+747,55,Bill Bailey: Tinselworm,152069412-1,65.84,,11,true
+748,100,Wheel of Time,450417197-X,131.29,,7,false
+749,8,Emma's Bliss (Emmas Glück),501558617-5,128.86,,17,false
+750,52,Disco Dancer,807759780-7,23.56,,12,false
+751,23,Holy Man,211277422-0,52.45,,10,false
+752,13,"House, The (A Casa)",009578199-4,67.47,,9,false
+753,51,"Bigger, Stronger, Faster*",699148562-4,66.23,,13,true
+754,7,My Favorite Season,012482607-5,137.38,,8,false
+755,88,"Kid & I, The",664475361-2,18.15,,15,false
+756,36,Patrick,217039029-4,149.72,,13,true
+757,38,"Jimmy Show, The",611685849-X,120.51,,19,false
+758,60,Karla,225352165-5,145.57,,3,true
+759,34,That's Entertainment! III,828959661-8,110.53,,6,false
+760,55,Blackout,920630103-9,70.99,,17,false
+761,42,Saw VII 3D - The Final Chapter,400376976-7,76.11,,7,true
+762,16,"Maybe, Maybe Not (Bewegte Mann, Der)",300601200-3,81.07,,8,true
+763,84,"Saphead, The",700458428-3,65.55,,3,false
+764,85,Applause (Applaus),288421645-6,54.87,,19,true
+765,93,Cialo,519395556-8,107.85,,1,false
+766,48,Lady Be Good,210099393-3,7.21,,7,true
+767,19,40 Pounds of Trouble,229109414-9,14.74,,3,true
+768,100,Frozen River,115821559-2,111.87,,2,false
+769,62,Artifact,040132351-X,120.51,,12,true
+770,89,Toolbox Murders,895692161-X,56.59,,8,true
+771,1,Christmas on Mars,022695389-0,13.93,,20,false
+772,41,Under the Rainbow,572668137-1,91.0,,14,false
+773,93,Cardcaptor Sakura: The Sealed Card,242073227-8,69.83,,19,true
+774,41,Love & Sex,481776831-2,108.27,,17,true
+775,56,Cockfighter,096753977-3,50.59,,6,true
+776,96,Vision Quest,170900191-7,107.12,,8,false
+777,77,Man of the West,378771381-6,131.26,,6,false
+778,37,Bartok the Magnificent,345100263-9,127.56,,8,true
+779,97,Phffft,153856387-8,72.39,,7,false
+780,84,Scanners III: The Takeover (Scanner Force),926327188-7,37.14,,11,false
+781,13,Amigo,174195948-9,133.74,,18,false
+782,3,Spiritual Kung Fu (Quan jing),839267148-1,116.81,,14,true
+783,35,Land,640140263-6,136.81,,2,true
+784,58,Endeavour,725170608-3,10.0,,12,true
+785,11,"Confiance règne, La",013212237-5,139.82,,18,true
+786,34,La Soufrière - Warten auf eine unausweichliche Katastrophe,802560509-4,119.53,,20,false
+787,10,The Diary of an Unknown Soldier,288798686-4,53.71,,2,false
+788,13,San Pietro,408241398-7,104.71,,7,false
+789,60,Run Fatboy Run,333014396-7,42.57,,1,true
+790,21,Broken City,499152415-6,129.89,,19,true
+791,12,Everybody Dies But Me,274208072-4,77.82,,19,true
+792,85,Stanley and Livingstone,262556979-4,92.14,,4,false
+793,47,Spud,211542749-1,92.7,,2,false
+794,35,"Night Walker, The",595660890-0,134.78,,13,true
+795,31,"Accidental Spy, The (Dak miu mai shing)",318652104-1,130.06,,11,false
+796,80,Dear Pillow,093814895-8,6.35,,17,true
+797,45,"Riot Club, The",931468713-9,70.6,,14,false
+798,8,Tenderness (Hellyys),374599172-9,27.55,,14,false
+799,3,Zatoichi's Conspiracy (Shin Zatôichi monogatari: Kasama no chimatsuri) (Zatôichi 25),760626322-1,132.06,,5,true
+800,69,Wisdom,266390348-5,90.18,,16,true
+801,7,Lady Dragon,095729549-9,82.14,,17,true
+802,26,Young & Wild (Joven y alocada),479593626-9,116.77,,5,true
+803,74,Chimes at Midnight (Campanadas a medianoche),266762188-3,76.76,,15,true
+804,90,After the Wedding (Efter brylluppet),994391021-6,135.63,,4,false
+805,85,"5,000 Fingers of Dr. T, The",864141855-5,148.61,,3,true
+806,27,Charlotte Sometimes,877731820-X,8.07,,9,false
+807,41,Princess Ka'iulani,541301135-0,18.32,,13,true
+808,29,Dad Savage,000677068-1,125.07,,3,false
+809,5,Grand Illusion (La grande illusion),275167385-6,90.94,,11,false
+810,85,Ulysses (Ulisse),757169830-8,133.95,,15,false
+811,41,Domino,476209563-X,60.88,,17,false
+812,47,"True Story of Jesse James, The",731018101-8,148.21,,13,true
+813,72,Nancy Drew and the Hidden Staircase,355452727-0,120.77,,4,true
+814,12,Skirt Day (La journée de la jupe),991269472-4,25.76,,13,false
+815,22,"Day Lincoln Was Shot, The",180730710-7,21.38,,8,false
+816,27,Our Song,401244496-4,97.47,,19,true
+817,5,One Week,783862510-6,106.08,,15,false
+818,70,"Five Heartbeats, The",064794695-5,21.72,,11,true
+819,6,"Rendezvous in Paris (Rendez-vous de Paris, Les)",578058324-2,101.26,,12,false
+820,27,Enter the Ninja (a.k.a. Ninja I),789203191-X,53.0,,14,false
+821,41,Thomas and the Magic Railroad,022685186-9,60.54,,15,true
+822,36,Bengazi,699289019-0,118.5,,5,false
+823,70,13 Assassins (Jûsan-nin no shikaku),450229798-4,91.66,,10,true
+824,2,Outside the Law,320438852-2,48.1,,18,true
+825,44,Aya of Yop City,298931973-5,6.21,,3,false
+826,83,Show People,217886806-1,49.37,,18,false
+827,22,Britannia Hospital,762432266-8,96.7,,19,false
+828,38,"Man from Laramie, The",458657782-7,47.18,,9,true
+829,18,"Red and the White, The (Csillagosok, katonák)",553058887-5,74.01,,14,false
+830,33,"Evil Cult, The (Lord of the Wu Tang) (Yi tian tu long ji: Zhi mo jiao jiao zhu)",187606242-8,49.28,,15,true
+831,39,"Errand Boy, The",731360818-7,42.13,,14,false
+832,46,Duck Season (Temporada de patos),232359334-X,25.43,,12,false
+833,76,"Adventures of Huck Finn, The",457870584-6,124.27,,19,false
+834,41,Dead Tired (Grosse Fatigue),787543972-8,101.25,,2,true
+835,16,In the Edges: The 'Grizzly Man' Session ,142875588-8,46.07,,20,true
+836,47,"Swan Princess: Escape from Castle Mountain, The",934399844-9,125.06,,4,false
+837,33,Jonestown: The Life and Death of Peoples Temple,947071868-2,128.2,,8,false
+838,33,Hysterical Blindness,525404800-X,119.56,,8,true
+839,29,Backfire,306903937-5,98.16,,18,true
+840,84,Wild Things,668829606-3,104.88,,2,true
+841,87,Galaxina,937694546-8,73.71,,1,false
+842,1,Bandwagon,242594985-2,10.96,,12,false
+843,9,Bad Company,397085589-6,29.28,,15,true
+844,80,"House of Rothschild, The",721180535-8,108.14,,3,true
+845,46,"Reef, The",275351861-0,53.2,,14,false
+846,80,Agata and the Storm (Agata e la tempesta),863217102-X,51.51,,9,false
+847,48,"Wooden Man's Bride, The (Yan shen)",312180803-6,12.62,,15,false
+848,29,"Sudden Wealth of the Poor People of Kombach",064294086-X,32.37,,13,false
+849,50,Fear of a Black Hat,075587169-3,69.61,,6,false
+850,18,Welcome to the Punch,746471553-5,18.56,,5,true
+851,33,Steamboat Willie,220861915-3,17.22,,11,true
+852,45,Spring in a Small Town (Xiao cheng zhi chun),118037181-X,49.79,,19,true
+853,25,Student Bodies,742187965-X,14.71,,12,false
+854,10,Dial M for Murder,489116954-0,58.7,,3,false
+855,69,The Spiritual Boxer,666855612-4,30.81,,5,false
+856,49,Women of the Night (Yoru no onnatachi),309623144-3,6.43,,15,false
+857,89,Boiler Room,188987305-5,123.79,,11,false
+858,15,Blood of the Vampire,405153440-5,86.72,,6,true
+859,86,"Book of Life, The",835673229-8,98.26,,11,true
+860,40,Mighty Uke,346185569-3,104.07,,12,true
+861,19,"Passenger, The (Professione: reporter)",111093195-6,73.72,,6,false
+862,86,Paranormal Activity 3,145409991-7,97.72,,15,true
+863,64,Monsieur Verdoux,997027420-1,42.06,,20,false
+864,84,All the Little Animals,036533273-9,44.0,,2,true
+865,56,SubUrbia,865263636-2,40.46,,3,false
+866,99,Princess and the Pony,176486539-1,38.97,,9,true
+867,57,"Fugitive, The",041352993-2,53.77,,5,false
+868,12,Bring on the Night,912530751-7,81.58,,8,false
+869,70,The Eagle and the Hawk,579686641-9,76.17,,17,true
+870,89,Christmas Comes but Once a Year,563713943-1,123.29,,4,false
+871,16,Tenderness (Hellyys),863182659-6,29.06,,19,false
+872,78,"High, Wide, and Handsome",980425025-X,34.3,,3,true
+873,59,Limbo,438970137-1,144.55,,17,false
+874,80,Miss Firecracker,801013514-3,18.07,,5,false
+875,26,Blue Blood,132311407-6,76.02,,20,false
+876,8,"She No Longer Talks, She Shoots",481837796-1,148.34,,13,false
+877,37,Uptown Saturday Night,387329255-6,47.1,,6,true
+878,37,Stand Up and Fight,450466285-X,135.61,,13,false
+879,84,Address Unknown (Suchwiin bulmyeong),553868290-0,101.62,,10,true
+880,20,Summer Heights High,826414026-2,91.52,,7,true
+881,11,City Limits,495291443-7,90.62,,5,false
+882,25,Return of the Living Dead Part II,273240106-4,33.66,,4,true
+883,14,"Chapman Report, The",536533329-2,42.92,,12,false
+884,51,96 Minutes ,175776103-9,61.15,,20,true
+885,81,Girls Will Be Girls,701871323-4,136.45,,18,false
+886,47,This Is My Life,599288568-4,50.79,,8,false
+887,16,Doctor at Sea,789295663-8,128.28,,5,false
+888,57,Kiss the Girls,580294718-7,124.56,,1,true
+889,69,War of the Worlds,425513206-2,131.93,,18,false
+890,17,Two Shots Fired,143627385-4,74.52,,6,true
+891,22,Nancy Drew and the Hidden Staircase,733058678-1,139.19,,9,false
+892,71,"Ali Zoua: Prince of the Streets (Ali Zaoua, prince de la rue)",910641654-3,80.4,,4,true
+893,14,"ChubbChubbs!, The",325281981-3,24.15,,10,false
+894,98,Alter Egos,302550416-1,17.61,,9,true
+895,11,Buried Alive II,122751813-7,52.16,,6,true
+896,8,Addams Family Values,084159417-1,76.09,,11,false
+897,51,Insanitarium,642092735-8,124.59,,10,false
+898,74,"Geographer Drank His Globe Away, The (Geograf globus propil)",115643804-7,132.69,,7,false
+899,61,"Letter to Elia, A",924160038-1,18.95,,3,true
+900,83,Panic,505028926-2,67.68,,2,true
+901,100,Always,517486503-6,58.16,,9,false
+902,85,Mysterious Origins of Man,164511308-6,50.68,,1,true
+903,22,Calle 54,691140106-2,55.98,,15,false
+904,23,Sintel,174314560-8,147.49,,7,true
+905,39,"Cuckoo, The (Kukushka)",361893586-2,30.02,,17,true
+906,69,"Last Warrior, The (Last Patrol, The)",914988967-2,111.63,,3,false
+907,86,Tension at Table Rock,406992169-9,112.87,,9,true
+908,47,Four Bags Full,412641816-4,112.66,,15,true
+909,71,Trouble in Mind,373254905-4,147.24,,11,false
+910,8,Winter Light (Nattvardsgästerna),031348512-7,132.51,,8,false
+911,44,Poolhall Junkies,846054529-6,58.45,,12,true
+912,74,Corpo Celeste,700143692-5,105.42,,9,true
+913,80,"Letter, The",463356868-X,71.86,,7,false
+914,76,Marjoe,812321093-0,111.08,,2,false
+915,61,Shock Waves,622946165-X,64.83,,4,false
+916,74,Sacrificio: Who Betrayed Che Guevara,187076090-5,79.15,,10,true
+917,1,PK,073682095-7,40.67,,4,true
+918,18,Revenge of the Zombies,635308867-1,40.44,,5,false
+919,53,"Super Cops, The",278896152-9,32.23,,15,true
+920,76,Cry of the City,311287021-2,71.79,,19,false
+921,86,Stella Dallas,296581357-8,106.58,,16,false
+922,10,"Working Class Goes to Heaven, The (a.k.a. Lulu the Tool) (La classe operaia va in paradiso)",237065161-X,95.19,,8,true
+923,36,Raffles,489360890-8,106.56,,12,true
+924,60,Bartleby,967057273-8,128.43,,16,true
+925,16,"Devil's Brigade, The",144437901-1,75.06,,17,false
+926,25,Three Coins in the Fountain,192614482-1,123.17,,4,false
+927,87,"Ordet (Word, The)",802103300-2,10.6,,15,false
+928,52,"Man Called Horse, A",175335125-1,54.18,,17,false
+929,40,"Set-Up, The",847321451-X,119.7,,18,false
+930,72,Faces in the Crowd,556940636-0,101.97,,3,true
+931,27,"New Wave, A",533961255-4,19.35,,8,true
+932,52,KM 31: Kilometro 31,954919402-7,31.9,,12,false
+933,100,Sun Wind (Aurinkotuuli),416913040-5,21.41,,13,false
+934,60,"H.M. Pulham, Esq.",501767208-7,58.07,,3,false
+935,78,Comedian,744338179-4,69.77,,9,true
+936,68,Captain America: The First Avenger,267440874-X,51.39,,17,false
+937,36,Red Salute,459296780-1,42.06,,20,false
+938,11,Beau Pere (a.k.a. Stepfather) (Beau-père),108491745-9,113.57,,12,true
+939,92,Gendernauts,667313827-0,51.65,,16,false
+940,25,Everybody's Fine (Stanno tutti bene),685179053-X,39.89,,10,false
+941,46,Corpo Celeste,014178268-4,57.74,,17,false
+942,10,"Rules of the Game, The (La règle du jeu)",706953406-X,44.71,,9,false
+943,49,Wichita,499154572-2,39.23,,7,true
+944,7,3 Sailors and a Girl (Three Sailors and a Girl),798949348-9,12.18,,13,true
+945,10,Every Other Week (Varannan vecka),858617960-4,20.73,,3,true
+946,64,Pelle Svanslös i Amerikatt,300872294-6,72.71,,18,false
+947,66,"Horrible Dr. Hichcock, The",835583936-6,27.99,,6,true
+948,83,Love Story,436204502-3,129.19,,14,true
+949,32,Soloalbum,281111962-0,38.17,,3,true
+950,86,Fire in the Sky,775195279-2,90.99,,1,false
+951,19,At the River I Stand,121487312-X,93.66,,5,true
+952,51,Liar Liar,438985784-3,116.27,,2,false
+953,3,Chains (Catene),977585623-X,107.49,,12,true
+954,81,"City of the Living Dead (a.k.a. Gates of Hell, The) (Paura nella città dei morti viventi)",220679528-0,136.7,,20,false
+955,38,Hatari!,968865322-5,49.08,,1,true
+956,69,RoboCop,986467679-2,35.54,,13,true
+957,77,Crazy Sexy Cancer,895213941-0,104.59,,8,false
+958,78,Someday This Pain Will Be Useful to You,761667571-9,108.21,,15,false
+959,93,"Outfit, The",676178036-5,142.13,,11,false
+960,84,Miami Blues,332114213-9,57.65,,18,true
+961,23,11 Harrowhouse,041257843-3,136.27,,10,true
+962,73,"Letter to Elia, A",639828256-6,48.69,,5,false
+963,39,Street Thief,429457266-3,48.16,,5,true
+964,18,José and Pilar (José e Pilar),531643369-6,104.64,,17,false
+965,37,"Kiss for Corliss, A (Almost a Bride)",468296392-9,25.11,,12,true
+966,17,R.I.P.D.,704819460-X,27.36,,1,true
+967,47,I Spy,578968523-4,123.04,,11,true
+968,26,War,927968509-0,63.66,,12,false
+969,41,Battleground,070666144-3,78.83,,4,false
+970,50,Black Tights (1-2-3-4 ou Les Collants noirs),134254763-2,77.1,,19,true
+971,43,You Light Up My Life,677543888-5,58.15,,19,false
+972,58,Melissa P.,017242782-7,17.18,,16,false
+973,85,Indiscreet,972433572-0,20.34,,15,true
+974,68,Black Beauty,185529732-9,107.97,,19,true
+975,76,Art & Copy,603663283-5,59.14,,2,false
+976,81,Jesus Christ Superstar,942571640-4,13.18,,12,false
+977,89,Savior,435862718-8,110.14,,9,true
+978,48,Landscape with a Woman (Zena s krajolikom),547130509-4,69.29,,11,true
+979,63,Suur Tõll,019969330-7,43.32,,17,false
+980,72,Keeping Mum,227307979-6,91.49,,1,true
+981,90,Teaching Mrs. Tingle,218705513-2,115.29,,20,true
+982,96,Head On,450906775-5,39.02,,6,false
+983,11,Big Game,043202616-9,47.88,,19,true
+984,29,"Proposition, The",552253687-X,17.39,,13,true
+985,25,Elysium,257732704-8,22.55,,9,true
+986,44,"Long Ships, The",551798716-8,126.36,,17,false
+987,81,Lili's Apron,676931078-3,68.01,,14,false
+988,2,"Last Days of Disco, The",490796671-7,40.62,,12,false
+989,3,Erkan & Stefan 2,654104851-7,70.55,,18,false
+990,15,My Life in Pink (Ma vie en rose),619582503-4,66.57,,8,true
+991,95,Captain Corelli's Mandolin,138375077-7,74.8,,12,false
+992,57,Argentina latente,895549558-7,97.44,,11,false
+993,49,They Bite,681288227-5,128.71,,17,true
+994,81,Light Sleeper,419223967-1,135.13,,4,false
+995,10,Nothing,411654456-6,38.45,,11,false
+996,5,"Magnificent Seven Ride!, The",829617816-8,130.72,,3,true
+997,52,"Illustrated Man, The",215461050-1,47.08,,9,false
+998,96,Black Rain (Kuroi ame),766953796-5,142.04,,19,false
+999,13,Murmur of the Heart (Le souffle au coeur),624108008-3,79.17,,7,true
+1000,85,"20,000 Years in Sing Sing",147936671-4,60.42,,18,true

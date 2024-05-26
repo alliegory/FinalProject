@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SQLFinalSSIS", "SQLFinalSSIS.dtproj", "{BC502158-BE2E-4FCE-9FCC-686D78EF7DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC502158-BE2E-4FCE-9FCC-686D78EF7DFF}.Development|Default.ActiveCfg = Development
+		{BC502158-BE2E-4FCE-9FCC-686D78EF7DFF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DD80F39-0B05-4135-AEC9-0B95858D774F}
+	EndGlobalSection
+EndGlobal
